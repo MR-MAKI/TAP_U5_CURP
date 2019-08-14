@@ -155,7 +155,25 @@
            android:layout_marginTop="25dp"
            android:elevation="1dp"
            android:text="Generar Curp" />
+
+
    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/aviso"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:elevation="1dp"
+            android:text="Avsiso de cambios"
+            />
+
+    </LinearLayout>
 
     <LinearLayout
         android:orientation="horizontal"
